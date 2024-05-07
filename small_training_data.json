@@ -1,0 +1,67 @@
+[
+  {
+    "id": 4271,
+    "title": "Ryan O'Neal to guest star on '90210'",
+    "publish_date": "20100107",
+    "number": "90210",
+    "offset": 30,
+    "length": 5,
+    "magnitude": 5,
+    "masked": "Ryan O'Neal to guest star on '[Num]'",
+    "title_sci_10E": "Ryan O'Neal to guest star on '[Num]'",
+    "title_char": "Ryan O'Neal to guest star on '[Num]'",
+    "title_sci_10E_char": "Ryan O'Neal to guest star on '[Num]'"
+  },
+  {
+    "id": 278032,
+    "title": "Fact sheet and screens released for God of War: Origins Collection on PS3",
+    "publish_date": "20110606",
+    "number": "3",
+    "offset": 72,
+    "length": 1,
+    "magnitude": 1,
+    "masked": "Fact sheet and screens released for God of War: Origins Collection on PS[Num]",
+    "title_sci_10E": "Fact sheet and screens released for God of War: Origins Collection on PS[Num]",
+    "title_char": "Fact sheet and screens released for God of War: Origins Collection on PS[Num]",
+    "title_sci_10E_char": "Fact sheet and screens released for God of War: Origins Collection on PS[Num]"
+  },
+  {
+    "id": 281843,
+    "title": "Reality Steve names remaining three 'mystery men' on Season 2 of 'Bachelor Pad'",
+    "publish_date": "20110614",
+    "number": "2",
+    "offset": 60,
+    "length": 1,
+    "magnitude": 1,
+    "masked": "Reality Steve names remaining three 'mystery men' on Season [Num] of 'Bachelor Pad'",
+    "title_sci_10E": "Reality Steve names remaining three 'mystery men' on Season [Num] of 'Bachelor Pad'",
+    "title_char": "Reality Steve names remaining three 'mystery men' on Season [Num] of 'Bachelor Pad'",
+    "title_sci_10E_char": "Reality Steve names remaining three 'mystery men' on Season [Num] of 'Bachelor Pad'"
+  },
+  {
+    "id": 298868,
+    "title": "'Kate Plus 8': Kate Gosselin brings out the abs with Jon around",
+    "publish_date": "20110730",
+    "number": "8",
+    "offset": 11,
+    "length": 1,
+    "magnitude": 1,
+    "masked": "'Kate Plus [Num]': Kate Gosselin brings out the abs with Jon around",
+    "title_sci_10E": "'Kate Plus [Num]': Kate Gosselin brings out the abs with Jon around",
+    "title_char": "'Kate Plus [Num]': Kate Gosselin brings out the abs with Jon around",
+    "title_sci_10E_char": "'Kate Plus [Num]': Kate Gosselin brings out the abs with Jon around"
+  },
+  {
+    "id": 366413,
+    "title": "ISL Releases FY 2011-2012 Illinois Public Library Annual Report",
+    "publish_date": "20120113",
+    "number": "2011",
+    "offset": 16,
+    "length": 4,
+    "magnitude": 4,
+    "masked": "ISL Releases FY [Num]-2012 Illinois Public Library Annual Report",
+    "title_sci_10E": "ISL Releases FY [Num]-2.0120000000E+03 Illinois Public Library Annual Report",
+    "title_char": "ISL Releases FY [Num]- 2 0 1 2 Illinois Public Library Annual Report",
+    "title_sci_10E_char": "ISL Releases FY [Num]- 2 . 0 1 2 0 0 0 0 0 0 0 E + 0 3 Illinois Public Library Annual Report"
+  }
+]
